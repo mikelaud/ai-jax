@@ -23,11 +23,11 @@ Array([[0., 0., 0., 0., 0.],
 >>> jax.default_backend()
 'gpu'
 
-Window Edition: Windows 11 Pro
+Microsoft Window Edition: Windows 11 Pro
 Version: 21H2
 OS build: 22000.1696
 
-Studio Driver
+NVIDIA Studio Driver
 Version 531.41
 NVIDIA GeForce RTX 3090
 
