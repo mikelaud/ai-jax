@@ -1,3 +1,4 @@
 # ai-jax
 
-Main documentation: https://jax.readthedocs.io/en/latest/notebooks/quickstart.html
+1. [Intro to JAX: Accelerating Machine Learning research](https://www.youtube.com/watch?v=WdTeDXsOSj4)
+2. [Main documentation](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
