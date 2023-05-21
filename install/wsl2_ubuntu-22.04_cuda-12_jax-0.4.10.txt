@@ -1,0 +1,37 @@
+Install WSL2 + Ubuntu-22.04 + CUDA-12 + JAX-0.4.10
+==================================================
+
+https://jax.readthedocs.io/en/latest/installation.html
+https://github.com/google/jax#installation
+
+wsl --unregister Ubuntu-22.04
+wsl --install -d Ubuntu-22.04
+
+sudo su
+
+apt update
+apt -y full-upgrade
+
+apt -y install python3-pip
+pip install --upgrade "jax[cuda12_pip]==0.4.10" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+
+python3
+>>> import jax
+>>> jax.numpy.zeros((5,5))
+Array([[0., 0., 0., 0., 0.],
+       [0., 0., 0., 0., 0.],
+       [0., 0., 0., 0., 0.],
+       [0., 0., 0., 0., 0.],
+       [0., 0., 0., 0., 0.]], dtype=float32)
+>>> jax.default_backend()
+'gpu'
+
+Microsoft Window Edition: Windows 11 Pro
+Version: 21H2
+OS build: 22000.1936
+
+NVIDIA Studio Driver
+Version 531.41
+NVIDIA GeForce RTX 3090
+
+%%
