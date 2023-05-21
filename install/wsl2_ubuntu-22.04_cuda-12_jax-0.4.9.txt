@@ -1,4 +1,4 @@
-Install WSL2 + Ubuntu-22.04 + CUDA-12 + JAX-0.4.8
+Install WSL2 + Ubuntu-22.04 + CUDA-12 + JAX-0.4.9
 =================================================
 
 https://jax.readthedocs.io/en/latest/installation.html
