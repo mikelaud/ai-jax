@@ -14,6 +14,7 @@
      * [Install WSL2 + Ubuntu-22.04 + CUDA-12 + JAX-0.4.8](install/wsl2_ubuntu-22.04_cuda-12_jax-0.4.8.txt)
      * [Install WSL2 + Ubuntu-22.04 + CUDA-12 + JAX-0.4.9](install/wsl2_ubuntu-22.04_cuda-12_jax-0.4.9.txt)
      * [Install WSL2 + Ubuntu-22.04 + CUDA-12 + JAX-0.4.10](install/wsl2_ubuntu-22.04_cuda-12_jax-0.4.10.txt)
+     * [Install WSL2 + Ubuntu-22.04 + CUDA-12 + JAX-0.4.13](install/wsl2_ubuntu-22.04_cuda-12_jax-0.4.13.txt)
 4. [JAX documentation](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 5. [LinkedIn Learning: Learning JAX](https://www.linkedin.com/learning/learning-jax) _(Janani Ravi)_
 6. Machine Learning with JAX _(Aleksa Gordić)_
